@@ -1,3 +1,4 @@
 # asdfの設定ファイル
 
-.tool-versions
+## .tool-versions
+グローバルに使うバージョン設定。

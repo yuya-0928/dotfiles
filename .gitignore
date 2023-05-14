@@ -6,10 +6,24 @@
 
 # "無視したくないファイル"は以下に"![ファイル名]"で指定
 ##### Gitで管理するファイルリスト #####
-!/.bash_logout
+## git
 !/.gitignore
+!**/README.md
+## bash
+!/.bash_logout
+!/.bashrc
+## zsh
 !/.zshrc
-!/asdf
+## asdf
+!/asdf/.tool-versions
+## shell
+!/dotfilesLink.sh
+!/setupAsdf.sh
+!/setupNodejs.sh
+!/setupZsh.sh
+## windows
+!/winget_import_file.json
+
 
 # 上記に"無視したくないファイル"としてリスト化した中から、さらに"無視したいファイル"を指定
 # /hogehoge

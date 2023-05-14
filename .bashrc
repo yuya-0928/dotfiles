@@ -115,3 +115,9 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# nodenv のインストールディレクトリをPATHに追記
+export PATH="$HOME/.nodenv/bin:$PATH"
+
+# nodenvを動作させるための設定を実行
+eval "$(nodenv init - bash)"

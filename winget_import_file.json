@@ -1,0 +1,302 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2023-05-14T17:55:29.690-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Streamlabs.Streamlabs"
+				},
+				{
+					"PackageIdentifier" : "Doist.Todoist"
+				},
+				{
+					"PackageIdentifier" : "AgileBits.1Password"
+				},
+				{
+					"PackageIdentifier" : "antonreshetov.massCode"
+				},
+				{
+					"PackageIdentifier" : "CoreyButler.NVMforWindows"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.BotFrameworkEmulator"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "Amazon.Kindle"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu.1804"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu.2004"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu.2204"
+				},
+				{
+					"PackageIdentifier" : "SharkLabs.ClownfishVoiceChanger"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier" : "voidtools.Everything"
+				},
+				{
+					"PackageIdentifier" : "Figma.Figma"
+				},
+				{
+					"PackageIdentifier" : "Figma.fonthelper"
+				},
+				{
+					"PackageIdentifier" : "GIMP.GIMP"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "bmatzelle.Gow"
+				},
+				{
+					"PackageIdentifier" : "REALiX.HWiNFO"
+				},
+				{
+					"PackageIdentifier" : "Logitech.Options"
+				},
+				{
+					"PackageIdentifier" : "Logitech.UnifyingSoftware"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "OBSProject.OBSStudio"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "ShiningLight.OpenSSL.Light"
+				},
+				{
+					"PackageIdentifier" : "RaspberryPiFoundation.RaspberryPiImager"
+				},
+				{
+					"PackageIdentifier" : "Miro.Miro"
+				},
+				{
+					"PackageIdentifier" : "Atlassian.Sourcetree"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "Synology.Assistant"
+				},
+				{
+					"PackageIdentifier" : "Synology.DriveClient"
+				},
+				{
+					"PackageIdentifier" : "TeraTermProject.teraterm"
+				},
+				{
+					"PackageIdentifier" : "Toggl.TogglTrack"
+				},
+				{
+					"PackageIdentifier" : "uvncbvba.UltraVnc"
+				},
+				{
+					"PackageIdentifier" : "Unity.UnityHub"
+				},
+				{
+					"PackageIdentifier" : "Wacom.WacomTabletDriver"
+				},
+				{
+					"PackageIdentifier" : "Wargaming.GameCenter"
+				},
+				{
+					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
+				},
+				{
+					"PackageIdentifier" : "AntibodySoftware.WizTree"
+				},
+				{
+					"PackageIdentifier" : "Wondershare.Filmora"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom"
+				},
+				{
+					"PackageIdentifier" : "Twilio.Authy"
+				},
+				{
+					"PackageIdentifier" : "boostio.boostnote"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community"
+				},
+				{
+					"PackageIdentifier" : "Notion.Notion"
+				},
+				{
+					"PackageIdentifier" : "Insomnia.Insomnia"
+				},
+				{
+					"PackageIdentifier" : "SlackTechnologies.Slack"
+				},
+				{
+					"PackageIdentifier" : "ApacheFriends.Xampp.8.1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
+				},
+				{
+					"PackageIdentifier" : "VMware.WorkstationPlayer"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WebDeploy"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
+				},
+				{
+					"PackageIdentifier" : "Google.JapaneseIME"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitLFS"
+				},
+				{
+					"PackageIdentifier" : "BlenderFoundation.Blender"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
+				},
+				{
+					"PackageIdentifier" : "Win32diskimager.win32diskimager"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK"
+				},
+				{
+					"PackageIdentifier" : "VaclavSlavik.Poedit"
+				},
+				{
+					"PackageIdentifier" : "RealVNC.VNCViewer"
+				},
+				{
+					"PackageIdentifier" : "Nota.Gyazo"
+				},
+				{
+					"PackageIdentifier" : "Mojang.MinecraftLauncher"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "TheDocumentFoundation.LibreOffice"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+				},
+				{
+					"PackageIdentifier" : "Peppy.Osu!"
+				},
+				{
+					"PackageIdentifier" : "Oracle.VirtualBox"
+				},
+				{
+					"PackageIdentifier" : "Elgato.4KCaptureUtility"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "VRChat.CreatorCompanion"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.GeForceExperience"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.Broadcast"
+				},
+				{
+					"PackageIdentifier" : "Philips.HueSync"
+				},
+				{
+					"PackageIdentifier" : "RealVNC.VNCServer"
+				},
+				{
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.XNARedist"
+				},
+				{
+					"PackageIdentifier" : "Twitch.Soundtrack"
+				},
+				{
+					"PackageIdentifier" : "Inkscape.Inkscape"
+				},
+				{
+					"PackageIdentifier" : "ParadoxInteractive.ParadoxLauncher"
+				},
+				{
+					"PackageIdentifier" : "ManicTime.ManicTime"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
+				},
+				{
+					"PackageIdentifier" : "XSplit.Broadcaster"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.3_1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.4.10173"
+}

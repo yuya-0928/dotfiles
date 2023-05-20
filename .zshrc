@@ -44,3 +44,8 @@ zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 if [ -f ~/.zsh_local ]; then
   source ~/.zsh_local
 fi
+
+# aliasの設定
+alias l='ls -F'
+alias la='ls -a'
+alias ll='ls -l'

@@ -39,3 +39,8 @@ zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 # setting asdf
 # dotfiles/setupAsdf.shを実行する。
 . "$HOME/.asdf/asdf.sh"
+
+# localで管理したい環境変数などを.zsh_localで管理する
+if [ -f ~/.zsh_local ]; then
+  source ~/.zsh_local
+fi

@@ -49,3 +49,6 @@ fi
 alias l='ls -F'
 alias la='ls -a'
 alias ll='ls -l'
+
+# direnvの設定
+eval "$(direnv hook zsh)"

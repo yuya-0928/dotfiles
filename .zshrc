@@ -52,3 +52,6 @@ alias ll='ls -l'
 
 # direnvの設定
 eval "$(direnv hook zsh)"
+
+# hubの設定
+eval "$(hub alias -s)"

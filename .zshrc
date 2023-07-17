@@ -55,3 +55,6 @@ eval "$(direnv hook zsh)"
 
 # hubの設定
 eval "$(hub alias -s)"
+
+# zsh: no matches found: を防ぐ
+setopt nonomatch

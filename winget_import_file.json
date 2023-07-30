@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-05-14T17:55:29.690-00:00",
+	"CreationDate" : "2023-07-30T21:11:06.734-00:00",
 	"Sources" : 
 	[
 		{
@@ -23,6 +23,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.BotFrameworkEmulator"
+				},
+				{
+					"PackageIdentifier" : "Notion.Notion"
 				},
 				{
 					"PackageIdentifier" : "7zip.7zip"
@@ -55,7 +58,7 @@
 					"PackageIdentifier" : "Figma.Figma"
 				},
 				{
-					"PackageIdentifier" : "Figma.fonthelper"
+					"PackageIdentifier" : "Figma.FigmaAgent"
 				},
 				{
 					"PackageIdentifier" : "GIMP.GIMP"
@@ -67,10 +70,13 @@
 					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
-					"PackageIdentifier" : "bmatzelle.Gow"
+					"PackageIdentifier" : "REALiX.HWiNFO"
 				},
 				{
-					"PackageIdentifier" : "REALiX.HWiNFO"
+					"PackageIdentifier" : "LINE.LINE"
+				},
+				{
+					"PackageIdentifier" : "Logitech.LogiBolt"
 				},
 				{
 					"PackageIdentifier" : "Logitech.Options"
@@ -86,6 +92,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Firefox"
 				},
 				{
 					"PackageIdentifier" : "OBSProject.OBSStudio"
@@ -124,7 +133,28 @@
 					"PackageIdentifier" : "uvncbvba.UltraVnc"
 				},
 				{
+					"PackageIdentifier" : "Unity.Unity.2020"
+				},
+				{
+					"PackageIdentifier" : "Unity.Unity.2020"
+				},
+				{
+					"PackageIdentifier" : "Unity.Unity.2020"
+				},
+				{
+					"PackageIdentifier" : "Unity.Unity.2021"
+				},
+				{
+					"PackageIdentifier" : "Unity.Unity.2021"
+				},
+				{
+					"PackageIdentifier" : "Unity.Unity.2021"
+				},
+				{
 					"PackageIdentifier" : "Unity.UnityHub"
+				},
+				{
+					"PackageIdentifier" : "marha.VcXsrv"
 				},
 				{
 					"PackageIdentifier" : "Wacom.WacomTabletDriver"
@@ -166,76 +196,67 @@
 					"PackageIdentifier" : "SlackTechnologies.Slack"
 				},
 				{
-					"PackageIdentifier" : "ApacheFriends.Xampp.8.1"
+					"PackageIdentifier" : "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier" : "ApacheFriends.Xampp.8.2"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
-				},
-				{
-					"PackageIdentifier" : "VMware.WorkstationPlayer"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WebDeploy"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
-				},
-				{
-					"PackageIdentifier" : "Google.JapaneseIME"
-				},
-				{
-					"PackageIdentifier" : "GitHub.GitLFS"
-				},
-				{
-					"PackageIdentifier" : "BlenderFoundation.Blender"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
-				},
-				{
-					"PackageIdentifier" : "Win32diskimager.win32diskimager"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsSDK"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsSDK"
-				},
-				{
-					"PackageIdentifier" : "VaclavSlavik.Poedit"
-				},
-				{
-					"PackageIdentifier" : "RealVNC.VNCViewer"
-				},
-				{
-					"PackageIdentifier" : "Nota.Gyazo"
-				},
-				{
-					"PackageIdentifier" : "Mojang.MinecraftLauncher"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
 					"PackageIdentifier" : "TheDocumentFoundation.LibreOffice"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitLFS"
+				},
+				{
+					"PackageIdentifier" : "RealVNC.VNCViewer"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
+				},
+				{
+					"PackageIdentifier" : "Mojang.MinecraftLauncher"
+				},
+				{
+					"PackageIdentifier" : "Win32diskimager.win32diskimager"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
 				},
 				{
-					"PackageIdentifier" : "Peppy.Osu!"
+					"PackageIdentifier" : "Elgato.4KCaptureUtility"
 				},
 				{
 					"PackageIdentifier" : "Oracle.VirtualBox"
 				},
 				{
-					"PackageIdentifier" : "Elgato.4KCaptureUtility"
+					"PackageIdentifier" : "VaclavSlavik.Poedit"
+				},
+				{
+					"PackageIdentifier" : "Nota.Gyazo"
+				},
+				{
+					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "Peppy.Osu!"
+				},
+				{
+					"PackageIdentifier" : "ParadoxInteractive.ParadoxLauncher"
+				},
+				{
+					"PackageIdentifier" : "XSplit.Broadcaster"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
@@ -244,19 +265,25 @@
 					"PackageIdentifier" : "VRChat.CreatorCompanion"
 				},
 				{
+					"PackageIdentifier" : "Elgato.StreamDeck"
+				},
+				{
 					"PackageIdentifier" : "Nvidia.GeForceExperience"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.Broadcast"
 				},
 				{
-					"PackageIdentifier" : "Philips.HueSync"
+					"PackageIdentifier" : "Inkscape.Inkscape"
+				},
+				{
+					"PackageIdentifier" : "Google.JapaneseIME"
 				},
 				{
 					"PackageIdentifier" : "RealVNC.VNCServer"
 				},
 				{
-					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+					"PackageIdentifier" : "BlenderFoundation.Blender"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.XNARedist"
@@ -265,28 +292,43 @@
 					"PackageIdentifier" : "Twitch.Soundtrack"
 				},
 				{
-					"PackageIdentifier" : "Inkscape.Inkscape"
+					"PackageIdentifier" : "Microsoft.WebDeploy"
 				},
 				{
-					"PackageIdentifier" : "ParadoxInteractive.ParadoxLauncher"
+					"PackageIdentifier" : "Philips.HueSync"
 				},
 				{
 					"PackageIdentifier" : "ManicTime.ManicTime"
 				},
 				{
+					"PackageIdentifier" : "VMware.WorkstationPlayer"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
 				},
 				{
-					"PackageIdentifier" : "XSplit.Broadcaster"
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.SDK.3_1"
+					"PackageIdentifier" : "Microsoft.WindowsSDK.10.0.22621"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK.10.0.22000"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.3_1"
 				}
 			],
 			"SourceDetails" : 
@@ -298,5 +340,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.4.10173"
+	"WinGetVersion" : "1.5.1881"
 }
